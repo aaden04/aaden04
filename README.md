@@ -5,8 +5,8 @@ Hi there, I’m **Abdirahman Aden!**
 
 ## 😎 About Me  
 With a background in customer service and technical support, I made the move into software development to leverage my strengths 
-problem-solving, structured thinking, and practical solutions. My experience in resolving complex issues and delivering efficient solutions translates well into building clean, maintainable, and impactful software.I’m driven by curiosity and a desire to 
-build software that makes a positive impact.I enjoy working on diverse projects, tackling challenges with code, and collaborating in dynamic teams.  
+problem-solving, structured thinking, and practical solutions. My experience in resolving complex issues and delivering efficient solutions translates well into building clean, maintainable, and impactful software. I’m driven by curiosity and a desire to 
+build software that makes a positive impact. I enjoy working on diverse projects, tackling challenges with code, and collaborating in dynamic teams.  
 
 **My approach to development focuses on writing clear, efficient, and maintainable code.**  
 
