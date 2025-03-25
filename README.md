@@ -7,7 +7,7 @@
   
   [![Email](https://img.shields.io/badge/Email-mr.aaden10%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mr.aaden10@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=github)](https://yourportfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=github)]((https://github.com/aaden04/aaden04)
 </div>
 
 ## 😎 About Me
