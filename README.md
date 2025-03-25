@@ -1,9 +1,7 @@
 # Welcome to My GitHub! 👋
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c028862f-627c-44ad-9f87-ce9ce99befe0" alt="Naruto Walk GIF" width="150px">
-
-
+  <img src="https://github.com/user-attachments/assets/c028862f-627c-44ad-9f87-ce9ce99befe0" alt="Naruto Walk GIF" width="300px">
   
   <h2>I'm <span style="color:#4285F4">Abdirahman Aden</span> - Software Developer</h2>
   
@@ -45,19 +43,51 @@ With a background in customer service and technical support, I made the move int
 <div align="center">
   <table>
     <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60px" alt="MakersBnB">
+        <br>
+        <b>MakersBnB - Airbnb Clone</b>
+        <br>
+        <small>
+          <b>Tech Stack:</b> Python, Flask, HTML, CSS, PostgreSQL, Pytest, Selenium
+          <br><br>
+          A collaborative full-stack application replicating Airbnb's core functionality. Features include user authentication, property listings with availability calendars, booking requests, and a responsive design. Implemented using MVC architecture with comprehensive backend and frontend testing.
+        </small>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60px" alt="Social Media Platform">
+        <br>
+        <b>Social Media Platform</b>
+        <br>
+        <small>
+          <b>Tech Stack:</b> JavaScript, CSS, HTML, React, Firebase
+          <br><br>
+          Built a responsive social media application with real-time updates, user profiles, post creation with media uploads, commenting system, and notifications. Implemented secure authentication and optimized for mobile devices using modern JavaScript frameworks.
+        </small>
+      </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="60px" alt="Web Apps">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png" width="60px" alt="Chrome Extension">
         <br>
-        <b>Interactive Web Apps</b>
+        <b>Productivity Chrome Extension</b>
         <br>
-        Building small, fun web apps to explore new technologies and user experiences
+        <small>
+          <b>Tech Stack:</b> JavaScript, HTML, CSS, Chrome Extension API
+          <br><br>
+          Developed a browser extension to enhance productivity by blocking distracting websites, providing customizable pomodoro timer, and offering quick note-taking functionality. Features sync across devices using Chrome storage.
+        </small>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="60px" alt="Mobile Apps">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="60px" alt="Job Hunter">
         <br>
-        <b>Mobile App Prototypes</b>
+        <b>Job Hunter Application</b>
         <br>
-        Experimenting with Kotlin to create simple, user-friendly mobile solutions
+        <small>
+          <b>Tech Stack:</b> Python, Flask, BeautifulSoup, SQLite, Bootstrap
+          <br><br>
+          Created an automated job application tracker that scrapes listings from multiple platforms, organizes opportunities by relevance, and tracks application status. Includes resume keyword analyzer to help tailor applications to job descriptions.
+        </small>
       </td>
     </tr>
   </table>
@@ -86,6 +116,4 @@ I'm eager to continue learning and growing as a developer while working with inn
 <div align="center">
   <h3>🚀 Thanks for Stopping By!</h3>
   <p>Check out my projects to see what I'm working on, and let's connect if you're interested in building impactful software together!</p>
-  
-
 </div>
