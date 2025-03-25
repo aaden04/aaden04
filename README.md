@@ -85,5 +85,5 @@ I'm eager to continue learning and growing as a developer while working with inn
   <h3>🚀 Thanks for Stopping By!</h3>
   <p>Check out my projects to see what I'm working on, and let's connect if you're interested in building impactful software together!</p>
   
-  <img src="https://komarev.com/ghpvc/?username=aaden04&color=brightgreen" alt="Profile views">
+
 </div>
