@@ -7,7 +7,7 @@
   
   [![Email](https://img.shields.io/badge/Email-mr.aaden10%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mr.aaden10@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=github)]((https://github.com/aaden04/aaden04)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=github)](https://portfolio-website-woy7.onrender.com/)
 </div>
 
 ## 😎 About Me
@@ -73,6 +73,10 @@ I'm eager to continue learning and growing as a developer while working with inn
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-website-woy7.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github" alt="Portfolio">
+  </a>
 </div>
 
 ---
@@ -81,5 +85,5 @@ I'm eager to continue learning and growing as a developer while working with inn
   <h3>🚀 Thanks for Stopping By!</h3>
   <p>Check out my projects to see what I'm working on, and let's connect if you're interested in building impactful software together!</p>
   
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=aaden04&color=brightgreen" alt="Profile views">
 </div>
