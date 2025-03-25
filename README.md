@@ -1,7 +1,9 @@
 # Welcome to My GitHub! 👋
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fad07b37-1873-4687-8867-93c9bc0332b5" alt="Naruto Walk GIF" width="500px">
+  <img src="https://github.com/user-attachments/assets/c028862f-627c-44ad-9f87-ce9ce99befe0" alt="Naruto Walk GIF" width="500px">
+
+
   
   <h2>I'm <span style="color:#4285F4">Abdirahman Aden</span> - Software Developer</h2>
   
