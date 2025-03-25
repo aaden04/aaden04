@@ -2,6 +2,7 @@
 Hi there, I’m **Abdirahman Aden!**  
 
 ---  
+![Naruto Walk GIF by Ivanildo Soares](https://github.com/user-attachments/assets/fad07b37-1873-4687-8867-93c9bc0332b5)
 
 ## 😎 About Me  
 With a background in customer service and technical support, I made the move into software development to leverage my strengths 
