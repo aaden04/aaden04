@@ -13,11 +13,11 @@
 <h2>😎 About Me</h2>
 
 <p>
-  I transitioned into software development from a background in customer service and technical support, where I honed my problem-solving skills and ability to communicate complex ideas clearly. That experience now fuels my approach to writing clean, maintainable code and building software that solves real-world problems.
+  I transitioned into software development from a background in customer service and technical support, where I honed my problem solving skills and ability to communicate complex ideas clearly. That experience now fuels my approach to writing clean, maintainable code and building software that solves real-world problems.
 </p>
 
 <blockquote>
-  I'm driven by curiosity, a passion for continuous learning, and the goal of creating practical, user-focused solutions. I enjoy working on diverse projects — from AI tools to full-stack applications — and thrive in collaborative, fast-moving environments.
+  I'm driven by curiosity, a passion for continuous learning, and the goal of creating practical, user focused solutions. I enjoy working on diverse projects — from AI tools to full-stack applications — and thrive in collaborative, fast-moving environments.
 </blockquote>
 
 **My approach to development focuses on writing clear, efficient, and maintainable code.**
