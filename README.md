@@ -10,11 +10,15 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=github)](https://portfolio-website-woy7.onrender.com/)
 </div>
 
-## 😎 About Me
+<h2>😎 About Me</h2>
 
-With a background in customer service and technical support, I made the move into software development to leverage my strengths in problem-solving, structured thinking, and practical solutions. My experience in resolving complex issues and delivering efficient solutions translates well into building clean, maintainable, and impactful software.
+<p>
+  I transitioned into software development from a background in customer service and technical support, where I honed my problem-solving skills and ability to communicate complex ideas clearly. That experience now fuels my approach to writing clean, maintainable code and building software that solves real-world problems.
+</p>
 
-> I'm driven by curiosity and a desire to build software that makes a positive impact. I enjoy working on diverse projects, tackling challenges with code, and collaborating in dynamic teams.
+<blockquote>
+  I'm driven by curiosity, a passion for continuous learning, and the goal of creating practical, user-focused solutions. I enjoy working on diverse projects — from AI tools to full-stack applications — and thrive in collaborative, fast-moving environments.
+</blockquote>
 
 **My approach to development focuses on writing clear, efficient, and maintainable code.**
 
