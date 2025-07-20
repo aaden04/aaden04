@@ -6,7 +6,6 @@
   <h2>I'm <span style="color:#4285F4">Abdirahman Aden</span> - Software Developer</h2>
   
   [![Email](https://img.shields.io/badge/Email-mr.aaden10%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mr.aaden10@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=github)](https://portfolio-website-woy7.onrender.com/)
 </div>
 
@@ -51,9 +50,6 @@ I'm eager to continue learning and growing as a developer while working with inn
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
   &nbsp;&nbsp;
   <a href="https://portfolio-website-woy7.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github" alt="Portfolio">
