@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋
+# Welcome 👋
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c028862f-627c-44ad-9f87-ce9ce99befe0" alt="Naruto Walk GIF" width="150px">
