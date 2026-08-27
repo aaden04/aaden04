@@ -8,7 +8,6 @@
   <a href="mailto:mr.aaden10@gmail.com">
     <img src="https://img.shields.io/badge/Email-mr.aaden10%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
----
 
 ## 🚀 About Me
 
@@ -35,49 +34,7 @@ I enjoy designing Infrastructure as Code, provisioning cloud environments, confi
 
 </div>
 
----
 
-## 🔨 What I Build
-
-- ☁️ AWS Cloud Infrastructure
-- 🌍 Infrastructure as Code with Terraform
-- ⚙️ Configuration Management using Ansible
-- 🐳 Containerised Applications with Docker
-- ☸️ Kubernetes Deployments
-- 🚀 CI/CD Pipelines
-- 🐧 Linux Administration & Bash Automation
-- 🐍 Python Automation Scripts
-
----
-
-## 📚 Current Labs
-
-- Kubernetes Clusters
-- Terraform Modules
-- AWS Networking & Security
-- GitHub Actions CI/CD
-- Ansible Automation
-- Docker & Container Orchestration
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="mailto:mr.aaden10@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://portfolio-website-woy7.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
