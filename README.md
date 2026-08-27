@@ -8,11 +8,6 @@
   <a href="mailto:mr.aaden10@gmail.com">
     <img src="https://img.shields.io/badge/Email-mr.aaden10%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://portfolio-website-woy7.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=github" />
-  </a>
-</div>
-
 ---
 
 ## 🚀 About Me
