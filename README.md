@@ -1,13 +1,5 @@
-# Welcome 👋
+Welcome 👋
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c028862f-627c-44ad-9f87-ce9ce99befe0" alt="Naruto Walk GIF" width="150px">
-
-  <h2>I'm <span style="color:#4285F4">Abdirahman Aden</span> - DevOps Engineer</h2>
-
-  <a href="mailto:mr.aaden10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mr.aaden10%40gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
 
 ## 🚀 About Me
 
